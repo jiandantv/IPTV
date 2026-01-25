@@ -3,7 +3,7 @@
 ## 📺️TV station list
 https://zilong7728.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-01-25 04:16:28 CST
+<!-- Last Run Time --> 2026-01-25 09:20:11 CST
 ## 🔗Generated File Link
 <!-- Generated File Link --> [View Generated File](https://raw.githubusercontent.com/jiandantv/IPTV/refs/heads/main/best_sorted.m3u)
 
